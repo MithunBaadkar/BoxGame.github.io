@@ -1,0 +1,103 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.div1{
+    width: 100%;
+    height: 100vh;
+    background-color: yellow;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    overflow: hidden;
+}
+
+.wraper{
+    width: 450px;
+    height: 450px;
+    background-color: white;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+}
+
+.con1{
+    height: 120px;
+    width: 450px;
+    display: flex;
+    justify-content: space-around;
+    
+    
+}
+.con2{
+    height: 120px;
+    width: 450px;
+    display: flex;
+    justify-content: space-around;
+    
+}
+.con3{
+    height: 120px;
+    width: 450px;
+    display: flex;
+    justify-content: space-around;
+    
+   
+}
+
+.box1{
+    width: 120px;
+    height: 120px;
+    background-color: rgb(255, 0, 0);
+    cursor: pointer;
+}
+.box2{
+    width: 120px;
+    height: 120px;
+    background-color: rgb(255, 162, 0);
+    cursor: pointer;
+}
+.box3{
+    width: 120px;
+    height: 120px;
+    background-color: rgb(255, 251, 0);
+    cursor: pointer;
+}
+.box4{
+    width: 120px;
+    height: 120px;
+    background-color: rgb(89, 255, 0);
+    cursor: pointer;
+}
+.box5{
+    width: 120px;
+    height: 120px;
+    background-color: rgb(0, 255, 225);
+    cursor: pointer;
+}
+.box6{
+    width: 120px;
+    height: 120px;
+    background-color: rgb(0, 4, 255);
+    cursor: pointer;
+}
+.box7{
+    width: 120px;
+    height: 120px;
+    background-color: rgb(174, 0, 255);
+    cursor: pointer;
+}
+.box8{
+    width: 120px;
+    height: 120px;
+    background-color: rgb(255, 0, 221);
+    cursor: pointer;
+}
+.box9{
+    width: 120px;
+    height: 120px;
+    background-color: rgb(255, 0, 106);
+    cursor: pointer;
+}
